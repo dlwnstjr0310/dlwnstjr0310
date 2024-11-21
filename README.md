@@ -9,7 +9,8 @@
 
 <div align=center >
   
-![dlwnstjr0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnstjr0310&count_private=true&show_icons=true&bg_color=00000000&hide=stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnstjr0310&&layout=compact&langs_count=10&theme=onedark) 
+![dlwnstjr0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnstjr0310&count_private=true&show_icons=true&theme=radical&hide=stars) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnstjr0310&&layout=compact&langs_count=10&theme=onedark) 
 
 </div>
 <!--
